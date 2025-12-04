@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "AXIA～ダイスキでダイキライ～",
+  "base_artist": "ワルキューレ／(カナメΔ安野希世乃／レイナΔ東山奈央／マキナΔ西田望見)",
+  "createdAt": "2025-12-04T13:45:36.145037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "AXIA ～ダイスキでダイキライ～",
+      "artist": "ワルキューレ ・ JUNNA、鈴木みのり、安野希世乃、東山奈央、西田望見",
+      "has_synced": true,
+      "path": "select/01_AXIA_~ダイスキでダイキライ~_ワルキューレ_・_JUNNA、鈴木みのり、安野希世乃、東山奈央、西田望見.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "AXIA～ダイスキでダイキライ～",
+      "artist": "ワルキューレ, (カナメΔ安野 希世乃/レイナΔ東山 奈央/マキナΔ西田 望見)",
+      "has_synced": false,
+      "path": "select/pl_01_AXIA~ダイスキでダイキライ~_ワルキューレ,_(カナメΔ安野_希世乃_レイナΔ東山_奈央_マキナΔ西田_望見).txt"
+    }
+  ]
+}
